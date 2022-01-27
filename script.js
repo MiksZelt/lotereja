@@ -14,7 +14,7 @@ for (let i = 0; i < uzvaretajuSkaits; i++) {
     let uzvaretajs = vardi[rand];
     rindas.innerHTML += `
 <tr>
-<td>${i+1}</td>
+<td>${i + 1}</td>
 <td>${uzvaretajs}</td>
 </tr>`
 }
